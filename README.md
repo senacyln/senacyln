@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Sena Ceylan
 - 👀 I’m interested  web software
-- 🌱 I’m currently learning  Html, css, js, react, react native. 
+ 
 
-I'm interested in React, HTML, and CSS, and currently hosting over 150 projects on SourceTree. I strive to combine my passion for software development with various projects to learn more and interact with the community. Additionally, I regularly update myself to keep up with technological advancements. If you want to get in touch with me, please use the contact information on my profile or send me a message. I also welcome you to check out my projects! Note: I don't host most of my projects as open-source.
+I graduated from Düzce University Computer Programming Department in 2021 as the second in the department. I am an experienced software developer in Javascript, React, HTML, CSS. Previously
+Thanks to the project development processes I have been involved in, I have contributed to the profitability of small and medium-sized enterprises. I have more than 162 live public web projects. I have specialized in the front end branch by completing various certificate programs. I make edits in the code to ensure the development of interfaces. I continue my career in this direction.
+
+Translated with DeepL.com (free version)
