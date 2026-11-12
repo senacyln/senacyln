@@ -24,13 +24,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,php,mysql,git,figma,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=senacyln&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senacyln&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
 ## 📫 Let's Connect
 
 Open to freelance work and collaborations. Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sena-ceylan-4b8612216) or my [website](https://senaceylan.com/).
